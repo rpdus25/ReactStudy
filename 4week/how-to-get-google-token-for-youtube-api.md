@@ -2,7 +2,7 @@
 
 
 1. google에 로그인 한다.
-2. google api 대시보드에 접속한다. https://console.developers.google.com/?hl=ko
+2. google api 대시보드에 접속한다. npm
 3. 프로젝트 만들기를 한다.
 4. 프로젝트가 만들어지면 왼쪽 메뉴에서 **사용자 인증 정보** 메뉴로 들어간다.
 5. 사용자 인증 정보 만들기를 누른다.
